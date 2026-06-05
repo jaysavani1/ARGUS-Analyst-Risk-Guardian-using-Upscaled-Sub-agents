@@ -23,7 +23,7 @@ from mcp_client import (
 
 logger = logging.getLogger(__name__)
 
-SYSTEM_PROMPT = """You are the Transaction Analyst Agent for SentinelIQ, an AI-powered
+SYSTEM_PROMPT = """You are the Transaction Analyst Agent for ARGUS, an AI-powered
 financial fraud detection platform.
 
 Your specialisation is STRUCTURAL DATA ANALYSIS. When given a transaction ID or case,
